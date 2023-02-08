@@ -4,23 +4,23 @@
 Our group wants to create a School management system for a certain school. The website should allow the students, teachers and all kind of people to have a prospective view and do all the institutional work for the school.
 
 # Feature - Student information
-*Name
-*Parents information
-*Class
-*Last passing mars
-*Roll no
+* Name
+* Parents information
+* Class
+* Last passing mars
+* Roll no
 
 # Feature - Billing and payments
-*Admission fees
-*Monthly fees
-*Extracirculum fees
+* Admission fees
+* Monthly fees
+* Extracirculum fees
 
 # Other features
-*Parent communication
-*Digital attendence
-*Remote learning
-*Library
-*Academics
+* Parent communication
+* Digital attendence
+* Remote learning
+* Library
+* Academics
 
 
 # User Stories
